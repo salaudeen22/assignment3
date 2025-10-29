@@ -4,9 +4,9 @@ A full-stack e-commerce shopping cart application with product browsing, cart ma
 
 ## Screenshots
 
-![Application Screenshot 1](https://drive.google.com/uc?export=view&id=15fVVHEdvrYQ3HSrcdjCSMCJ2JeKT6WN0)
+![Application Screenshot 1](./screenshots/Screenshot%202025-10-29%20at%202.21.07%20PM.png)
 
-![Application Screenshot 2](https://drive.google.com/uc?export=view&id=1Gtg05JwLa8gTZybc3dLR_4zAw67MJThY)
+![Application Screenshot 2](./screenshots/Screenshot%202025-10-29%20at%202.21.54%20PM.png)
 
 ## Features
 
@@ -252,4 +252,4 @@ MIT
 
 ## Author
 
-Salaudeen N
+salaudeen22
