@@ -4,9 +4,9 @@ A full-stack e-commerce shopping cart application with product browsing, cart ma
 
 ## Screenshots
 
-![Application Screenshot 1](https://drive.google.com/file/d/15fVVHEdvrYQ3HSrcdjCSMCJ2JeKT6WN0/view?usp=sharing)
+![Application Screenshot 1](https://drive.google.com/uc?export=view&id=15fVVHEdvrYQ3HSrcdjCSMCJ2JeKT6WN0)
 
-![Application Screenshot 2](https://drive.google.com/file/d/1Gtg05JwLa8gTZybc3dLR_4zAw67MJThY/view?usp=sharing)
+![Application Screenshot 2](https://drive.google.com/uc?export=view&id=1Gtg05JwLa8gTZybc3dLR_4zAw67MJThY)
 
 ## Features
 
